@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>学习系统</title>
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+	<link rel="stylesheet" href="../javascript/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../../font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/form-elements.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="shortcut icon" href="../images/ico/favicon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../images/ico/apple-touch-icon-144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../images/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../images/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../images/ico/apple-touch-icon-57-precomposed.png">
+	<script type="text/javascript" src="../javascript/common/jquery-3.4.0.min.js"></script>
+	<script type="text/javascript" src="../javascript/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../javascript/common/jquery.backstretch.js"></script>
+	<script type="text/javascript" src="../javascript/common/scripts.js"></script>
+	<script type="text/javascript" src="../javascript/common/jquery.util.js"></script>
+	<script type="text/javascript" src="../javascript/common/jquery.form.js"></script>
+	<script type="text/javascript" src="../javascript/common/config.js"></script>
+	<script type="text/javascript" src="login.js"></script>
+
+</head>
+
+<body>
+	<!-- Top content -->
+	<div class="top-content">
+		<div class="inner-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8 col-sm-offset-2 text">
+						<h1>
+							<strong>改变计划</strong>
+						</h1>
+						<div class="description">
+							<p>不辜负现在的人生，才是对自己最大的尊重</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-3 form-box">
+						<div class="form-bottom">
+							<form id="login" class="login-form">
+								<div class="form-group">
+									<label class="sr-only" for="form-username"></label> <input
+										id="userName" name="userName" type="text" placeholder="用户名..."
+										class="form-username form-control" onBlur="remove1()" />
+								</div>
+								<div class="form-group">
+									<label class="sr-only" form="form-password">Password</label> <input
+										id="userPassword" name="userPassword" type="password"
+										placeholder="密码..." class="form-password form-control"
+										onBlur="remove2()" />
+								</div>
+								<button class="btn" id="loginSubmit">开始登入</button>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-3 social-login">
+						<h3>或者切换以下登入</h3>
+						<div class="social-login-buttons">
+							<a class="btn btn-link-1 btn-link-1-facebook" href="#"> <i
+								class="fa fa-qq"></i> QQ
+							</a> <a class="btn btn-link-1 btn-link-1-twitter" href="#"> <i
+								class="fa fa-weixin"></i> 微信
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper 
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="crh.mars.study.mapper.ResourceMapper">
+
+	<select id="queryAllForLevel" resultType="crh.mars.study.enty.Resource">
+	
+		select * from STUDY_RESOURCE where RES_TYPE = #{res_type} and RES_STATUS='1'
+		
+	</select>
+	<update id="deleteRes1">
+		update STUDY_RESOURCE set STUDY_RESOURCE.RES_STATUS='0' where RES_ID= #{resourceId}
+	</update>
+</mapper>
