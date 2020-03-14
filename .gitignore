@@ -1,0 +1,10 @@
+*.classpath
+*.project
+*.prefs
+/target/
+/.classpath
+/.project
+/.settings/
+/.gitignore
+*.rej
+.meatdata
