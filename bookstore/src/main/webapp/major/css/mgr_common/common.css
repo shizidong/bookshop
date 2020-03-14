@@ -1,0 +1,518 @@
+@charset "utf-8"; 
+.ui-btn-default{
+	background: #009241;
+	border: 1px solid #009241;
+}
+.ui-btn-default:HOVER{ 
+    background: #3DAC6E; 
+}
+.ui-btn-default:active{ 
+    background: #007F3B;
+}
+.ui-btn-menu.ui-btn.disabled > .caret , .ui-btn-menu.ui-btn[disabled] > .caret{
+	background-position: -21px -269px !important;
+}
+.ui-btn-second:HOVER,.ui-btn-save:HOVER{
+	border: 1px solid #3DAC6E;
+	color:  #009241;
+}
+.ui-btn-second:ACTIVE,.ui-btn-save:ACTIVE{
+	border: 1px solid #3DAC6E;
+	color:  #007F3B;
+}
+.ui-btn-save  > .save-icon{
+    background: url(./images/lc-icon.png) no-repeat -29px -225px;
+}
+.ui-btn-group > .btn-icon > .caret,
+.ui-btn-group > .ui-btn > .caret,
+.ui-more-btn > .ui-btn > span,
+ .ui-btn > .caret{
+    background: url(./images/lc-icon.png) no-repeat -26px -269px;
+}
+.ui-btn-group > .ui-btn > .create{
+    background: url(./images/lc-icon.png) no-repeat -26px -247px;
+}
+.ui-btn > .create-white {
+    background: url(./images/lc-icon.png) no-repeat -444px -133px;
+}
+.ui-btn-ghost-brand{
+	border: 1px solid #3DAC6E;
+	color: #009241;
+}
+.ui-btn-ghost:HOVER,
+.ui-btn-menu:HOVER,
+.ui-btn-dashed:HOVER,
+.ui-btn-ghost-brand:HOVER{
+	border-color: #3DAC6E;
+	color: #009241;
+}
+.ui-btn-ghost:ACTIVE,
+.ui-btn-dashed:ACTIVE,
+.ui-btn-menu:ACTIVE,
+.ui-btn-ghost-brand:ACTIVE{
+	border-color:#3DAC6E;
+	color: #007F3B;
+}
+html,body{height: 100%;}
+.ui-header{
+	background-color:  #36a455;
+}
+.ui-header.iframe{
+	background-color: #36a455;
+}
+.ui-header > .ui-header-logo{
+	background-color: #36a455;
+}
+.ui-header .ui-header-search > div > .glyphicon-search {
+    background: url(./images/lc-icon.png) no-repeat -121px -134px;
+}
+.ui-menu-ul > li > a{
+    border: 1px solid transparent;
+    border-left:2px solid #323d4d;
+}
+.ui-menu-ul > li.active,
+.ui-menu-ul > li > .ui-accordion-header-active.ui-state-active{
+	border-left:2px solid #38B82F;
+	background-color: #2A3342;
+}
+.ui-menu-ul > li.active > a,
+.ui-menu-ul > li > .ui-accordion-header-active.ui-state-active{
+	color: #2EBB38;
+}
+.ui-menu-ul.ui-accordion > li >  .ui-accordion-content{
+	background:#323d4d;
+	color:  #96999F;
+}
+.ui-accordion-content >.ui-menu-ul > li >a{
+	background: #323d4d;
+	color:#99a1ad;
+}
+.ui-accordion-content >.ui-menu-ul > li{
+	border-bottom-color:#3b4a5f;
+}
+.ui-accordion-content >.ui-menu-ul > li.active{
+	background: #323d4d;
+	border-left:2px solid #323d4d;
+}
+.ui-accordion-content >.ui-menu-ul > li.active > a{
+	color:#1d8b4d;
+}
+.ui-accordion-content >.ui-menu-ul > li:last-child >a,
+.ui-accordion-content >.ui-menu-ul > li:last-child{
+	border-left:2px solid #323d4d !important;
+}
+.ui-notice{
+	 background-color: #009241;
+}
+.ui-notice > i{
+	background: url(./images/lc-icon.png) no-repeat;
+}
+/*.ui-login-header > .ui-user-info{
+	background:url(./images/lc-icon.png) no-repeat -294px -77px;
+}*/
+.ui-datepicker-box .ui-widget-header .ui-icon {
+    background: url(./images/lc-icon.png) no-repeat ;
+}
+.ui-datepicker-box.ui-widget-content .ui-state-highlight,
+.ui-datepicker-box .ui-widget-header .ui-state-highlight {
+    border: 1px solid #009241;
+    color:#009241;
+}
+.ui-datepicker-box.ui-widget-content .ui-state-active{
+	border: 1px solid #009241;
+    background: #009241;
+}
+.ztree li a span.button{
+	background:url(./images/lc-icon.png) no-repeat;
+}
+.ui-dialog .ui-button .ui-icon{
+    background: url(./images/lc-icon.png) no-repeat -392px -80px;
+}
+.glyphicon-select{
+	background: url(./images/lc-icon.png) no-repeat -280px -65px;
+}
+.glyphicon-date{
+	background: url(./images/lc-icon.png) no-repeat -283px -184px;
+}
+ .ui-radio-btn.active{
+	background-color: #009241;
+	border: 1px solid #38d75a; 
+}
+input[type=checkbox].checkbix:checked+label>span {
+    background: #3DAC6E;
+}
+input[type=checkbox].checkbix+label>span {
+    border: 1px solid #D9D9D9;
+}
+.radio.success input[type='radio']:checked+label i.default:before {
+    background-color: #3DAC6E !important;
+}
+.radio.success input:checked+label i:before {
+    background-color: #3DAC6E !important;
+}
+.radio.success input[type='radio']:checked+label i.default:after {
+    border-color: #3DAC6E;
+}
+.radio.success input:checked+label i:after {
+    border-color: #3DAC6E;
+    background-color: #3DAC6E !important;
+}
+.form-control-tip{
+	border: 1px solid #C0CCDA;
+}
+.form-control-bubble.form-control:focus,
+.has-success > input[type="text"] {
+    border-color: #3dac6e;
+    outline: 0;
+   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(61, 172, 110, 0.54);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(61, 172, 110, 0.54);
+}
+.has-error > input[type="text"],
+.has-error > textarea{
+    border-color: #F14134;
+    outline: 0;
+     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(241, 65, 52, 0.54);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(241, 65, 52, 0.54);
+}
+.has-error > p{
+	color:#F14134;
+}
+.ui-simple-search .input-group-icon,.input-group-icon{
+	background: #eee url(./images/lc-icon.png) no-repeat -124px -132px;
+}
+.ui-advanced-sreach{
+	color: #009241;
+}
+.columnGreenTip{
+	background:#009241;
+}
+.ui-tooltip, .arrow:after {
+    background: #1F2D3D;
+}
+.ui-tooltip {
+    background: #1F2D3D;
+}
+.table-page-box>ol>li span.current, .table-page-box>ol>li span.current:hover{
+	background:#337ab7;
+}
+/* .tcdPageCode a:HOVER{
+	background: none;
+} */
+.tcdPageCode a:hover ,.jumpPageNum:hover{
+	border: 1px solid #009241;
+}
+.tcdPageCode span.current {
+    background-color: #009241;
+}
+.icon-breadcrumb.breadcrumb>li >a>i ,
+.bc-icon{
+	background: url(./images/lc-icon.png) no-repeat;
+}
+.ui-back-to-top{
+	background:#009241;
+}
+.ui-back-to-top-icon{
+	background: #B3B3B3 url(./images/lc-icon.png) no-repeat -211px -182px;
+}
+ .dropdown-toggle > .caret{
+    background: url(./images/lc-icon.png) no-repeat -26px -268px;
+}
+.dropdown-menu>li>a>i {
+   background:  url(./images/lc-icon.png) no-repeat -269px -224px;
+}
+.dropdown-menu>li:HOVER,.dropdown-menu>li.active{
+	background-color:#EEFEF3;
+}
+.ui-app-btn{
+	background: #009241 url(./images/lc-icon.png) no-repeat -429px -204px;
+}
+.ui-app-icon .dropdown-menu>li>a{
+	background: #fff url(./images/lc-icon.png) no-repeat;
+}
+.ui-app-icon .dropdown-menu>li>a:hover{
+	background-color: #EEFEF3;
+}
+.progress-bar.has-over{
+    border-color: #009241;
+}
+.progress .progress-label.active > i,.progress .progress-label.progress-success > i{
+	background-color: #009241;
+	border-color:#009241;
+}
+.progress .progress-label > i.icon{
+	background: transparent url(./images/lc-icon.png) no-repeat -458px -293px;
+}
+.create-main.active > .progress  > .progress-label > i{
+	background-position: -458px -257px;
+}
+.progress-bar.has-error{
+    border-color:  #f04134;
+}
+.progress .progress-label.progress-success > i{
+    border-color: #009241;
+    color:#009241;
+    background-color:#fff;
+}
+.progress-list .progress-label > i.icon{
+	background-position:-383px -207px;
+}
+.tab-list>li.active a{
+	color:#009241;
+}
+.tab-list.tab-hor>li.active a{
+	border-bottom:2px solid #009241;
+}
+.tab-list > li a > i.tab-icon{
+	background:url(./images/lc-icon.png) no-repeat -389px -80px;
+}
+.tab-list.tab-list-box.tab-hor > li.active a{
+	color:#009241;
+}
+.tab-list.tab-line > li.active > a{
+	border-right: 2px solid #009241;
+}
+.ui-jqgrid-btable .ui-btn-delay-row{
+	background-color: #fff2f2 !important;
+	color: #f85454 !important;
+}
+.ui-jqgrid .ui-jqgrid-btable .ui-state-highlight{
+    border: 1px solid #efefef !important;
+    background: #EAFFF2 !important;
+    color: #666 !important;
+}
+.ui-jqgrid .ui-jqgrid-btable .ui-state-hover {
+    border: 1px solid #ccc !important;
+    background: rgba(0,146,65,.05);
+    font-weight: normal !important;
+}
+.ui-jqgrid  span.ui-icon {
+    background-image: url(../../javascript/jquery-ui/images/ui-icons_cc0000_256x240.png) !important;
+}
+
+.ui-table-btn{
+	color: #009241  !important;
+}
+.ui-table-btn:HOVER{
+	color: #009241 !important;
+}
+.ui-table-fontColor{
+	color: #36a455;
+}
+.ui-table-fontColor:HOVER{
+	color: #009241;
+}
+/* 新增 */
+.label-dialog{
+	border-left: 1px solid #2EA658;
+}
+.label-dialog > h3{
+	background:#009241;
+}
+.ui-label-system > li > div > div > a.all-active{
+	background-color:#009241;
+}
+
+.ui-label-system > li > div > div > a.active{
+	border:1px solid #009241;
+	color: #009241;
+	border-bottom: 0;
+}
+.ui-label-system > li > div > div > a.activeData{
+	color: #009241;
+	border-bottom: 0;
+}
+.ui-label-sec{
+	border: 1px solid #009241;
+}
+.ui-label-system > li > div > div > a > i{
+    background: url(./images/lc-icon.png) no-repeat -24px -271px;
+}
+.ui-label-system > li > label > a.active{
+	color:#009241;
+}
+.ui-label-sec > li > div > a.active{
+	color:#009241;
+}
+.ui-label-list > li:HOVER .ui-label-info,
+.ui-label-list > li:HOVER .ui-lable-icon,
+.ui-label-list > li.active .ui-label-info,
+.ui-label-list > li.active .ui-lable-icon{
+	border-color:#009241;
+}
+.ui-label-list > li:HOVER .ui-label-info > h3 > i,
+.ui-label-list > li.active .ui-label-info > h3 > i{
+	background: url(./images/lc-icon.png) no-repeat -382px -17px;
+}
+.ui-label-list > li:HOVER .ui-label-info > h3,
+.ui-label-list > li.active .ui-label-info > h3{
+	color:#009241;
+}
+.ui-calc-content > .ui-conditionCT > .ui-conditionCT-content > h5{
+	color:#009241;
+}
+.ui-conditionBox{
+	border-top:5px solid #009241;
+	border-left:1px solid #E9E9E9;
+	border-right:1px solid #E9E9E9;
+	border-bottom:1px solid #E9E9E9;
+}
+.ui-calc-content > .ui-bracket,.ui-bracket{
+    color:#009241;
+}
+.create-main:hover{
+	border-color: #009241;
+}
+.ui-filter-bar > a.active{
+	color: #009241;
+}
+.ui-filter-bar > a.active .f-ico-triangle-mt.active{
+	border-bottom: 4px solid #009241;
+}
+.ui-filter-bar > a.active .f-ico-triangle-mb.active{
+	border-top: 4px solid #009241;
+}
+.checkbox-radio input[type='checkbox']:checked+label i.default:before{
+	 background-color: #3DAC6E !important;
+}
+.checkbox-radio  input:checked+label i:before{
+	  background-color: #3DAC6E !important;
+}
+.checkbox-radio  input[type='checkbox']:checked+label i.default:after {
+    border-color: #3DAC6E;
+}
+.checkbox-radio  input:checked+label i:after {
+    border-color: #3DAC6E;
+    background-color: #3DAC6E !important;
+}
+.vertical-tab > ul > li.current{
+	color:#009241;
+	font-weight: bold;
+}
+.per-header > span > em{
+	background:url(images/lc-icon.png) no-repeat;
+}
+.ui-pre-progress > a:visited,.ui-pre-progress > a:active,.ui-pre-progress > a.active{
+	color:#009241;
+}
+.ui-morior-border:hover{
+	border:1px solid #009241;
+}
+.ui-conditionBox > i{
+	border: 5px solid transparent;
+    border-bottom: 5px solid  #009241;
+}
+.ui-custom-move > a{
+	background:url(images/lc-icon.png) no-repeat;
+}
+.ui-warrant-tab{
+	background-color:#36a455;
+}
+.ui-warrant-tab a.active{
+	color:#36a455;
+}
+a.droit-icon > em{
+	background:url(./images/lc-icon.png) no-repeat;
+}
+.label-checkbox > .radio>input[type='radio']+label>em.add-droit{
+	border:1px solid #3DAC6E;
+}
+.ui-warrant-table .ui-jqgrid .ui-jqgrid-btable .ui-state-highlight{
+	background: #3DAC6E !important;
+}
+.label-checkbox > .radio.active{
+	background-color:#3DAC6E;
+}
+.label-checkbox > .radio>input[type='radio']+label>em.add-droit:before{
+   border-right: 2px solid #3DAC6E;
+   border-bottom: 2px solid #3DAC6E;
+}
+.label-list-ul > li:hover > div >.label-bor{
+	border:2px solid #36a455;
+}
+.label-list-ul > li h3 > span > b{
+	background:url(./images/lc-icon.png) no-repeat -731px 4px;
+}
+.label-list-ul > li .label-item-box > span.label-shopCart{
+	background:url(./images/lc-icon.png) no-repeat -713px -143px;
+}
+.ui-search-box > li:hover{
+	background:#3DAC6E;
+}
+.customer-btns > span.active{
+	background: #009241!important;
+    border: 1px solid #009241;
+}
+.ui-custom-menu > h3{
+	background: #36a455;
+}
+.ui-custom-menu > ul{
+	border-left:2px solid #36a455;
+	border-right:2px solid #36a455;
+	border-bottom:2px solid #36a455;
+}
+.labelGroup{
+    background: url(./images/lc-icon.png) no-repeat;
+}
+.progress-bar{
+	background-color: #36a455;
+}
+.general-num{
+	background:#36a455;
+}
+
+/*.constitute-addList > ul > li.active.selected> div{
+	background:#36a455;
+}*/
+.label-list-ul > li h3 > div.ui-custom-num{
+	background:#ecfdf3;
+	color: #66ab79;
+}
+.ui-filter-bar > div span{
+	background: #009241;
+}
+.ui-label-list > li.ui-monitor-item > div.checkbox input[type=checkbox].checkbix:checked+span.large{
+	background: #3DAC6E;
+}
+.labelShare{
+	 background-color: #009241;
+}
+.label-addDoc{
+	background-color: #36a455;
+}
+.layout-type > em.active{
+	background-image: url(./images/lc-icon.png);
+}
+.pattern-box > h3 > em{
+	background-image: url(./images/lc-icon.png);
+}
+.ui-top-menu-toggle > ul > li.active > a{
+	color:#009241;
+}
+.por-seach > .searchBtn{
+	background:#36a455;
+}
+/* .ui-protrait-item > div{
+	background:#36a455;
+} */
+.chooseItemChildMenuBox{
+	border: 1px solid #009241;
+}
+.chooseItemClify > ul > li > a.active{
+	background:#009241;
+	color:#fff;
+}
+.itemQueryH3:hover,.itemQueryH3.active{
+	color: #009241;
+}
+.itemQueryMenu a:hover,.itemQueryMenu a.active{
+	color:#009241;
+}
+.label-basicInfo{
+	border: 1px solid #009241;
+}
+.label-basicInfo > a.all-active {
+    color: #009241;
+}
+.label-province .basic-info > em{
+	background: url(./images/lc-icon.png) no-repeat -24px -271px;
+}
