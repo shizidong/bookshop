@@ -1,0 +1,265 @@
+2020-03-14 19:41:29,589 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crh.mars:study:1.0.0 @ E:\StudayCode\bookshop\studay\pom.xml.
+2020-03-14 19:41:32,571 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 19:41:33,781 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 19:41:35,810 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 19:41:57,870 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 19:42:00,217 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/main/java
+2020-03-14 19:42:00,218 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 19:42:00,218 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 19:42:00,219 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/webapp
+2020-03-14 19:42:00,222 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/test/java
+2020-03-14 19:42:00,474 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 33 sec
+2020-03-14 19:42:03,247 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 19:42:03,250 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 19:42:03,283 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 19:42:03,298 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 19:42:03,634 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 19:42:03,634 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:00:18,095 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:study:1.0.0 @ E:\StudayCode\bookshop\studay\pom.xml.
+2020-03-14 20:00:19,117 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:00:19,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:00:19,122 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:00:19,122 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:00:19,125 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:00:19,125 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:01:42,659 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:01:42,659 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:01:42,684 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:01:42,694 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:01:43,042 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:01:43,042 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:02:02,021 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-14 20:02:02,741 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:study:1.0.0 @ E:\StudayCode\bookshop\studay\pom.xml.
+2020-03-14 20:02:03,668 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/main/java
+2020-03-14 20:02:03,669 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:02:03,672 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:02:03,682 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/webapp
+2020-03-14 20:02:03,685 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/test/java
+2020-03-14 20:02:04,047 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-03-14 20:02:05,321 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:02:05,322 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:02:05,355 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:02:05,368 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:02:05,639 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:02:05,639 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:02:29,237 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\StudayCode\bookshop\studay
+2020-03-14 20:02:29,238 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\Java\Maven\apache-maven-3.5.4\conf\settings.xml clean
+2020-03-14 20:02:32,756 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:02:32,759 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:02:32,763 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:02:32,774 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:02:32,979 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:02:32,979 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:02:37,670 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\StudayCode\bookshop\studay
+2020-03-14 20:02:37,671 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\Java\Maven\apache-maven-3.5.4\conf\settings.xml install
+2020-03-14 20:05:50,965 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\StudayCode\bookshop\bookstore\pom.xml
+2020-03-14 20:05:51,509 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:bookstore:0.0.1-SNAPSHOT @ E:\StudayCode\bookshop\bookstore\pom.xml.
+2020-03-14 20:05:52,043 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/main/java
+2020-03-14 20:05:52,045 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/test/java
+2020-03-14 20:05:52,105 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-03-14 20:05:52,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:05:52,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:05:52,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:05:52,536 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:06:28,037 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:bookstore:0.0.1-SNAPSHOT @ E:\StudayCode\bookshop\bookstore\pom.xml.
+2020-03-14 20:06:28,745 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:06:28,745 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:06:28,745 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:06:28,745 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:06:28,746 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:06:28,747 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:06:30,706 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:06:30,706 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:06:30,706 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:06:30,706 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:06:30,708 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:06:30,708 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:09:22,820 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-14 20:09:24,067 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:study:1.0.0 @ E:\StudayCode\bookshop\studay\pom.xml.
+2020-03-14 20:09:27,285 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:09:29,777 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:09:32,321 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:10:02,775 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:10:04,505 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/main/java
+2020-03-14 20:10:04,506 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:10:04,507 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:10:04,507 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/webapp
+2020-03-14 20:10:04,513 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/test/java
+2020-03-14 20:10:05,297 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 42 sec
+2020-03-14 20:10:06,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:10:06,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:10:06,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:10:06,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:10:06,354 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:10:06,354 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:10:08,442 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:10:08,451 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:10:08,486 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:10:08,528 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:10:08,865 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:10:08,866 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:11:53,705 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\StudayCode\bookshop\bookstore
+2020-03-14 20:11:53,705 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\Java\Maven\apache-maven-3.5.4\conf\settings.xml clean
+2020-03-14 20:11:56,543 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:11:56,543 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:11:56,543 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:11:56,543 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:11:56,545 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:11:56,546 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:11:59,747 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:11:59,748 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:11:59,748 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:11:59,748 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:11:59,750 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:11:59,750 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:12:00,162 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:12:00,162 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:12:00,166 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:12:00,175 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:12:00,494 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:12:00,495 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:13:57,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:13:57,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:13:57,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\resources
+2020-03-14 20:13:57,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:13:57,079 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:13:57,079 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:15:06,918 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:15:06,923 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:15:06,924 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:15:06,924 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\main\webapp
+2020-03-14 20:15:06,926 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:15:06,927 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:15:35,178 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:15:35,178 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:15:35,178 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:15:35,178 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:15:35,183 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:15:35,184 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:16:16,158 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:bookstore:0.0.1-SNAPSHOT @ E:\StudayCode\bookshop\bookstore\pom.xml.
+2020-03-14 20:16:16,944 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:16,944 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:16,944 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:16,944 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:16:16,946 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:16,946 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:16:18,975 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:18,976 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:18,977 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:18,977 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:16:18,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:18,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:16:39,462 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:39,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:39,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:16:39,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:16:39,465 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:39,465 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:16:39,957 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:39,958 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:16:39,961 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:16:39,968 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:16:40,230 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:16:40,230 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:16:59,083 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-14 20:16:59,926 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:bookstore:0.0.1-SNAPSHOT @ E:\StudayCode\bookshop\bookstore\pom.xml.
+2020-03-14 20:17:03,984 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:17:05,352 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:17:16,747 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom
+2020-03-14 20:17:26,564 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.pom
+2020-03-14 20:17:26,889 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.pom
+2020-03-14 20:17:27,175 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.pom
+2020-03-14 20:17:29,601 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2020-03-14 20:17:29,927 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2020-03-14 20:17:30,209 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2020-03-14 20:17:43,978 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2020-03-14 20:17:44,305 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2020-03-14 20:17:47,076 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2020-03-14 20:18:02,948 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2020-03-14 20:18:03,277 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2020-03-14 20:18:03,565 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2020-03-14 20:18:04,145 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2020-03-14 20:18:04,470 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2020-03-14 20:18:04,766 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2020-03-14 20:18:05,357 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-lang/commons-lang/2.5/commons-lang-2.5.pom
+2020-03-14 20:18:05,680 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-lang/commons-lang/2.5/commons-lang-2.5.pom
+2020-03-14 20:18:05,977 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-lang/commons-lang/2.5/commons-lang-2.5.pom
+2020-03-14 20:18:06,564 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2020-03-14 20:18:06,895 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2020-03-14 20:18:07,187 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2020-03-14 20:18:08,680 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.pom
+2020-03-14 20:18:09,010 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.pom
+2020-03-14 20:18:11,189 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.pom
+2020-03-14 20:18:11,764 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2020-03-14 20:18:13,003 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2020-03-14 20:18:16,357 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2020-03-14 20:18:17,557 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar
+2020-03-14 20:18:17,866 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar
+2020-03-14 20:18:18,180 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2020-03-14 20:18:18,507 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+2020-03-14 20:18:23,293 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2020-03-14 20:18:24,328 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar
+2020-03-14 20:18:24,663 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar
+2020-03-14 20:18:24,989 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar
+2020-03-14 20:18:25,403 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2020-03-14 20:18:25,735 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+2020-03-14 20:18:29,023 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2020-03-14 20:18:32,036 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar
+2020-03-14 20:18:32,329 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar
+2020-03-14 20:18:33,503 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar
+2020-03-14 20:18:33,785 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2020-03-14 20:18:34,076 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+2020-03-14 20:18:35,256 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2020-03-14 20:18:40,751 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar
+2020-03-14 20:18:42,144 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+2020-03-14 20:19:48,898 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+2020-03-14 20:19:49,441 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2020-03-14 20:20:00,386 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2020-03-14 20:20:05,897 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mars:study:1.0.0 @ E:\StudayCode\bookshop\studay\pom.xml.
+2020-03-14 20:20:06,355 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/main/java
+2020-03-14 20:20:06,355 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore/src/main/resources
+2020-03-14 20:20:06,360 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore/src/main/resources
+2020-03-14 20:20:06,360 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore/src/main/webapp
+2020-03-14 20:20:06,363 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/test/java
+2020-03-14 20:20:06,514 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/main/java
+2020-03-14 20:20:06,515 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:20:06,515 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/resources
+2020-03-14 20:20:06,515 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /studay/src/main/webapp
+2020-03-14 20:20:06,519 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /studay/src/test/java
+2020-03-14 20:20:06,955 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 187 sec
+2020-03-14 20:20:08,082 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:08,083 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:08,083 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:08,083 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:20:08,086 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:08,086 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:20:09,924 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:09,924 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-14 20:20:09,958 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-14 20:20:09,966 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 278 resources to META-INF/resources
+2020-03-14 20:20:10,178 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:10,178 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
+2020-03-14 20:20:53,575 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:53,577 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:53,578 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:53,579 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:20:53,580 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:53,580 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:20:54,662 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:54,662 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:54,662 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:20:54,662 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:20:54,664 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:20:54,664 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:29:44,163 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:29:44,164 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:29:44,164 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:29:44,164 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:29:44,166 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:29:44,166 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\bookstore\src\test\resources
+2020-03-14 20:29:44,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:29:44,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:29:44,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-14 20:29:44,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/resources
+2020-03-14 20:29:44,176 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-14 20:29:44,176 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\StudayCode\bookshop\studay\src\test\resources
